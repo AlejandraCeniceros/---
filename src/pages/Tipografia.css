@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
+
+.info{
+    font-family: 'Jost', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 3rem;
+}
+.paleta1{
+    width: 8rem;
+    align-items: right;
+    margin-left: 15rem;
+    margin-right: auto;
+
+}
+
+.paleta2{
+    width: 8rem;
+    align-items: right;
+    margin-left: 6rem;
+    margin-right: auto;
+
+}
+.paleta3{
+    width: 8rem;
+    align-items: right;
+    margin-left: 5rem;
+    margin-right: auto;
+
+}
+
+.gato{
+    width: 55rem;
+    align-items: center;
+    margin-left: -4.5rem;
+
+}
+
+
+.infos{
+    margin-top: 3rem;
+    font-family: 'Jost', sans-serif;
+    
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.h2{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    font-family: 'Jost', sans-serif;
+    
+    font-size: 2rem;
+
+
+    ;
+}
+
+.letrasJost{
+
+    width: 17rem;
+    align-items: center;
+    height: auto;
+    margin-top: 2rem;
+    margin-left: 15rem;
+    margin-right: auto;
+    z-index:-5;
+}
+
+.letrasOpen{
+
+    width: 15rem;
+    align-items: center;
+    height: auto;
+    margin-top: 2rem;
+    margin-left: 15rem;
+    margin-right: auto;
+    z-index:-5;
+}
+
+.infos{
+    margin-top: 3rem;
+    font-family: 'Jost', sans-serif;
+    
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.familia{
+
+    width: 40rem;
+    align-items: center;
+    height: auto;
+    margin-top: 2rem;
+    margin-left: 15rem;
+    margin-right: auto;
+    z-index:-5;
+    box-shadow: rgb(55, 55, 114);
+
+}
+
+.porfi{
+
+    font-family: 'Jost', sans-serif;
+    font-style: medium;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
+
+}
+.oki{
+
+    font-family: 'Jost', sans-serif;
+    font-style: bold;
+    text-align: justify;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+
+}

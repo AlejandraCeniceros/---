@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
+
+.title2{
+
+    font-family: "Eras ITC", "Eras Light ITC",  sans-serif ;
+    font-style: medium;
+    text-align:center;
+    font-weight: 18rem;
+    font-size: 8rem;
+    margin-left: 8rem;
+    margin-top: -18rem;
+    z-index: 2;
+    color: #51a8b1;
+}
+.info{
+    font-family: 'Jost', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.infos{
+    margin-top: 3rem;
+    font-family: 'Jost', sans-serif;
+    
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.infos2{
+    font-family: 'Jost', sans-serif;
+    font-style: medium;
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.icono{
+    width: 40rem;
+    align-items: center;
+    height: auto;
+    margin-top: 2rem;
+    margin-left: 8rem;
+    margin-right: auto;
+    z-index:-5;
+}
